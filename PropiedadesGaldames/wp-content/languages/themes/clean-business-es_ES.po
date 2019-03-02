@@ -1,0 +1,1233 @@
+# Translation of Themes - Clean Business in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Clean Business package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-28 18:44:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Clean Business\n"
+
+#. Theme Name of the plugin/theme
+msgid "Clean Business"
+msgstr "Clean Business"
+
+#. Description of the plugin/theme
+msgid "Clean Business is a clean, responsive and incredibly resourceful WordPress theme that can adapt to any business and corporate niche and provide users with an accessible interface. If your goal is to build a successful corporate website that is natively responsive, then look no further than Clean Business. This clean and minimalistic business and blog WordPress theme is deeply customizable with options through theme customizer. Any user can tailor his/her experience, and create a website that stays true to his/her vision. The responsive and cross-browser compatibility design of Clean Business allows your website to adapt to any device and web browser. This not only expands your target demographic, but it also allows you to update content while on the move. It is jam-packed with myriads of different features like featured content, featured sliders, promotion headlines, breadcrumb, pagination, navigation, custom widgets and header image options, each designed to enhance online business sites of any size. These features allow for a greater degree of flexibility and versatility. Finally, native CSS3 and HTML5 compatibility make Clean Business powered websites prepared for the future of the Internet, and ensure your business will look current and tech-savvy for years to come. This theme is translation ready. Check out Theme Instructions at https://catchthemes.com/theme-instructions/clean-business/ and Demo at https://catchthemes.com/demo/clean-business/"
+msgstr "Clean Business es un tema de WordPress claro, adaptativo y lleno de recursos que puede adaptarse a cualquier negocio o nicho corporativo y proporcionar a los usuarios una interfaz accesible. Si tu objetivo es construir un sitio web corporativo exitoso que sea adaptativo, no busques otro que no sea Clean Business. Este claro y minimalista tema de WordPress para negocios y tema de blog es muy personalizable con opciones a través del personalizador de temas. Cualquier usuario puede adaptar su experiencia y crear un sitio web que se mantenga fiel a su visión. El diseño y compatibilidad entre navegadores de Clean Business permite que tu sitio web se adapte a cualquier dispositivo y navegador web. Esto no sólo amplía tus usuarios potenciales, sino que también te permite actualizar el contenido. Está lleno de diferentes características como contenido destacado, sliders destacados, titulares de promoción, migas de pan, paginación, navegación, widgets personalizados y opciones de imagen del encabezado, cada una diseñada para mejorar los sitios en internet de negocios de cualquier tamaño. Estas características permiten un mayor grado de flexibilidad y versatilidad. Por último, la compatibilidad con CSS3 y HTML5 nativa hace que los sitios Web de Clean Business estén preparados para el futuro de Internet y asegurarte de que tu negocio se verá de actualidad y con tecnología avanzada durante los próximos años. Este tema está preparado para traducciones. Consulta las instrucciones del tema en https://catchthemes.com/theme-instructions/clean-business/ y la demostración en https://catchthemes.com/demo/clean-business/"
+
+#: inc/default-options.php:617
+msgctxt "1: Year, 2: Site Title with home URL 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+msgstr "Copyright &copy; %1$s %2$s. Todos los derechos reservados. %3$s"
+
+#: inc/default-options.php:407 inc/default-options.php:436
+msgid "Demo"
+msgstr "Demo"
+
+#: inc/template-tags.php:57
+msgid "Older posts"
+msgstr "Entradas antiguas"
+
+#: inc/template-tags.php:58
+msgid "Newer posts"
+msgstr "Entradas nuevas"
+
+#: inc/template-tags.php:55
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/default-options.php:617
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre &ldquo;%s&rdquo;"
+
+#: inc/default-options.php:393
+msgid "Hide Content"
+msgstr "Ocultar contenido"
+
+#: inc/customizer-includes/featured-content.php:152
+msgid "Display Content"
+msgstr "Mostrar contenido"
+
+#: inc/default-options.php:392
+msgid "Show Full Content"
+msgstr "Mostrar todo el contenido"
+
+#: sidebar.php:52
+msgid "Archives"
+msgstr "Archivos"
+
+#: sidebar.php:38
+msgid "This is the Primary Sidebar Widget Area if you are using a two or three column site layout option."
+msgstr "Este es el área principal de Widgets si estás usando una opción de diseño del sitio de dos o tres columnas."
+
+#: sidebar.php:35
+msgid "Primary Sidebar Widget Area"
+msgstr "Área principal de widgets de la barra lateral"
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:15 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda de: %s"
+
+#: inc/widgets/widgets.php:37
+msgid "Footer %d widget area."
+msgstr "Área de widgets del pie de página %d."
+
+#: inc/widgets/widgets.php:31
+msgid "Footer Area %d"
+msgstr "Área del pie de página %d"
+
+#: inc/widgets/widgets.php:18
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: inc/widgets/tag-cloud.php:151
+msgid "%"
+msgstr "%"
+
+#: inc/widgets/tag-cloud.php:150
+msgid "em"
+msgstr "em"
+
+#: inc/widgets/tag-cloud.php:149
+msgid "px"
+msgstr "px"
+
+#: inc/widgets/tag-cloud.php:148
+msgid "pt"
+msgstr "pt"
+
+#: inc/widgets/tag-cloud.php:144
+msgid "Unit"
+msgstr "Unidad"
+
+#: inc/widgets/tag-cloud.php:126
+msgid "Additional Options"
+msgstr "Opciones adicionales"
+
+#: inc/widgets/tag-cloud.php:121
+msgid "Custom Taxnomy"
+msgstr "Taxonomía personalizada"
+
+#: inc/widgets/tag-cloud.php:118
+msgid "Link Category"
+msgstr "Categoría del enlace"
+
+#: inc/widgets/tag-cloud.php:114
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/widgets/tag-cloud.php:110
+msgid "Post Tags"
+msgstr "Etiquetas de las entradas"
+
+#: inc/widgets/tag-cloud.php:107
+msgid "Taxonomies to be used"
+msgstr "Taxonomías usadas"
+
+#: inc/widgets/tag-cloud.php:97
+msgid "Descending"
+msgstr "Descendente"
+
+#: inc/widgets/tag-cloud.php:96
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: inc/widgets/tag-cloud.php:91
+msgid "Sequence"
+msgstr "Secuencia"
+
+#: inc/widgets/tag-cloud.php:80
+msgid "Rounded Corners"
+msgstr "Esquinas redondeadas"
+
+#: inc/widgets/tag-cloud.php:79
+msgid "Box"
+msgstr "Caja"
+
+#: inc/widgets/tag-cloud.php:69
+msgid "No. of Items"
+msgstr "Número de elementos"
+
+#: inc/widgets/tag-cloud.php:51
+msgid "CT: Tag Cloud"
+msgstr "CT: Nube de etiquetas"
+
+#: inc/widgets/social-icons.php:67
+msgid "Title (optional):"
+msgstr "Título (opcional):"
+
+#: inc/widgets/social-icons.php:26
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "Usa este widget para añadir iconos sociales como un widget"
+
+#: inc/widgets/social-icons.php:25
+msgid "CT: Social Icons"
+msgstr "CT: Iconos sociales"
+
+#: inc/widgets/featured-posts.php:232
+msgid "Limit content to"
+msgstr "Limitar contenido a"
+
+#: inc/widgets/featured-posts.php:229
+msgid "No Content"
+msgstr "Sin contenido"
+
+#: inc/widgets/featured-posts.php:228
+msgid "Show Content Limit"
+msgstr "Mostrar límite de contenido"
+
+#: inc/default-options.php:391 inc/widgets/featured-posts.php:227
+msgid "Show Excerpt"
+msgstr "Mostrar extracto"
+
+#: inc/widgets/featured-posts.php:185
+msgid "Center"
+msgstr "Centro"
+
+#: inc/widgets/featured-posts.php:183
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/widgets/featured-posts.php:184
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/widgets/featured-posts.php:182
+msgid "Top"
+msgstr "Arriba"
+
+#: inc/widgets/featured-posts.php:174
+msgid "Check to Disable Image"
+msgstr "Marcar para desactivar la imagen"
+
+#: inc/widgets/featured-posts.php:162
+msgid "4 Column"
+msgstr "4 columnas"
+
+#: inc/widgets/featured-posts.php:161
+msgid "3 Column"
+msgstr "3 columnas"
+
+#: inc/widgets/featured-posts.php:160
+msgid "2 Column"
+msgstr "2 columnas"
+
+#: inc/widgets/featured-posts.php:159
+msgid "1 Column"
+msgstr "1 columnas"
+
+#: inc/widgets/featured-posts.php:155
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/widgets/featured-posts.php:196
+msgid "Image Size"
+msgstr "Tamaño de la imagen"
+
+#: inc/widgets/featured-posts.php:208
+msgid "Check to Disable Title"
+msgstr "Marcar para desactivar el título"
+
+#: inc/widgets/featured-posts.php:144
+msgid "Ascending (1, 2, 3)"
+msgstr "Ascendente (1,2,3)"
+
+#: inc/widgets/featured-posts.php:143
+msgid "Descending (3, 2, 1)"
+msgstr "Descendente (3,2,1)"
+
+#: inc/widgets/featured-posts.php:139
+msgid "Order"
+msgstr "Orden"
+
+#: inc/widgets/featured-posts.php:128 inc/widgets/tag-cloud.php:95
+msgid "Random"
+msgstr "Aleatorio"
+
+#: inc/widgets/featured-posts.php:126
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/widgets/featured-posts.php:125
+msgid "title"
+msgstr "título"
+
+#: inc/widgets/featured-posts.php:226
+msgid "Show Content"
+msgstr "Mostrar contenido"
+
+#: inc/widgets/featured-posts.php:224
+msgid "Content Type"
+msgstr "Tipo de contenido"
+
+#: inc/widgets/featured-posts.php:220
+msgid "Check Hide to Author"
+msgstr "Marcar para ocultar el autor"
+
+#: inc/widgets/featured-posts.php:218
+msgid "Check to Hide Posted On Date"
+msgstr "Marcar para ocultar publicado en la fecha"
+
+#: inc/widgets/featured-posts.php:216
+msgid "Check to Hide Tags"
+msgstr "Marcar para ocultar etiquetas"
+
+#: inc/widgets/featured-posts.php:214
+msgid "Check to Hide Cagegory"
+msgstr "Marcar para ocultar categoría"
+
+#: inc/default-options.php:580
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/default-options.php:576
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/default-options.php:572
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/default-options.php:568
+msgid "DropBox"
+msgstr "DropBox"
+
+#: inc/default-options.php:564
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/default-options.php:560
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: inc/default-options.php:556
+msgid "Reddit"
+msgstr "Reedit"
+
+#: inc/default-options.php:552
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/default-options.php:548
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/default-options.php:544
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/default-options.php:540
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/default-options.php:536
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/default-options.php:532
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/default-options.php:528
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/default-options.php:524
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/default-options.php:520
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/default-options.php:516
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/default-options.php:512
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/default-options.php:508
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/default-options.php:504
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/default-options.php:500
+msgid "Feed"
+msgstr "Feed"
+
+#: inc/default-options.php:496 inc/social-icons.php:30
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/default-options.php:492
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: inc/default-options.php:488
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/default-options.php:484
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/default-options.php:451
+msgid "Fade"
+msgstr "Fundido"
+
+#: inc/default-options.php:452
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: inc/default-options.php:377
+msgid "4 columns"
+msgstr "4 columnas"
+
+#: inc/default-options.php:376
+msgid "3 columns"
+msgstr "3 columnas"
+
+#: inc/default-options.php:375
+msgid "2 columns"
+msgstr "2 columnas"
+
+#: inc/default-options.php:374
+msgid "1 column"
+msgstr "1 columna"
+
+#: inc/widgets/tag-cloud.php:137
+msgid "Largest"
+msgstr "El más grande"
+
+#: inc/widgets/tag-cloud.php:130
+msgid "Smallest"
+msgstr "El más pequeño"
+
+#: inc/widgets/tag-cloud.php:74
+msgid "Skins(Theme)"
+msgstr "Pieles (Tema)"
+
+#: inc/widgets/featured-posts.php:124
+msgid "Author"
+msgstr "Autor"
+
+#: inc/widgets/featured-posts.php:122
+msgid "Date"
+msgstr "Fecha"
+
+#: inc/widgets/featured-posts.php:118
+msgid "Order By"
+msgstr "Ordenado por"
+
+#: inc/widgets/featured-posts.php:113
+msgid "No. of Posts"
+msgstr "Número de entradas"
+
+#: inc/widgets/featured-posts.php:99
+msgid "Separate Multiple Post IDs by ,(comma)"
+msgstr "Separa múltiples identificadores de entradas por , (coma)"
+
+#: inc/widgets/featured-posts.php:97
+msgid "Post ID"
+msgstr "Identificador de entrada"
+
+#: inc/widgets/featured-posts.php:86 inc/widgets/featured-posts.php:123
+msgid "ID"
+msgstr "ID"
+
+#: inc/widgets/featured-posts.php:85
+msgid "Select Category"
+msgstr "Selecciona categoría"
+
+#: inc/customizer-includes/custom-controls.php:24
+#: inc/widgets/featured-posts.php:84
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/featured-posts.php:80
+msgid "Select Posts From"
+msgstr "Selecciona las entradas desde"
+
+#: inc/widgets/featured-posts.php:75 inc/widgets/tag-cloud.php:64
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/featured-posts.php:61
+msgid "CT: Featured Posts"
+msgstr "CT: Entradas destacadas"
+
+#: inc/template-tags.php:145
+msgid " %1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:124 inc/template-tags.php:143
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:118
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:118
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr "Enviar un comentario"
+
+#: inc/default-options.php:408 inc/default-options.php:437
+#: inc/template-tags.php:49
+msgid "Page"
+msgstr "Página"
+
+#: inc/template-tags.php:48
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/template-tags.php:47
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/structure.php:77
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/metabox.php:209
+msgid "Clean Business Options"
+msgstr "Opciones de Clean Business"
+
+#: inc/metabox.php:87
+msgid "Header Featured Image Options"
+msgstr "Opciones de la imagen destacada del encabezado"
+
+#: inc/default-options.php:619
+msgid "by"
+msgstr "por"
+
+#: inc/default-options.php:604
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/default-options.php:600
+msgid "Cloud"
+msgstr "Nube"
+
+#: inc/default-options.php:596
+msgid "Cart"
+msgstr "Carrito"
+
+#: inc/default-options.php:588
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/default-options.php:584
+msgid "Website"
+msgstr "Sitio Web"
+
+#: inc/widgets/featured-posts.php:234
+msgid "characters"
+msgstr "Caracteres"
+
+#: inc/widgets/featured-posts.php:212
+msgid "Post Meta Info"
+msgstr "Info meta de la entrada"
+
+#: inc/widgets/featured-posts.php:178
+msgid "Image Alignment"
+msgstr "Alineación de la imagen"
+
+#: inc/widgets/featured-posts.php:127
+msgid "Comment Count"
+msgstr "Cuenta de comentarios"
+
+#: inc/widgets/featured-posts.php:52
+msgid "Displays featured posts with thumbnails"
+msgstr "Muestra las entradas destacadas con miniaturas"
+
+#: inc/default-options.php:351
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/default-options.php:346
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: inc/default-options.php:331 inc/default-options.php:361
+msgid "Disable Image"
+msgstr "Desactivar imagen"
+
+#: inc/default-options.php:325 inc/default-options.php:356
+msgid "Full Image"
+msgstr "Imagen completa"
+
+#: inc/default-options.php:292
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/default-options.php:287
+msgid "Enable"
+msgstr "Activar"
+
+#: inc/default-options.php:251 inc/default-options.php:282
+#: inc/default-options.php:308 inc/default-options.php:341
+#: inc/widgets/tag-cloud.php:78
+msgid "Default"
+msgstr "Predeterminado"
+
+#: inc/default-options.php:216
+msgid "Infinite Scroll (Scroll)"
+msgstr "Scroll infinito (scroll)"
+
+#: inc/default-options.php:215
+msgid "Infinite Scroll (Click)"
+msgstr "Scroll infinito (clic)"
+
+#: inc/default-options.php:214
+msgid "Numeric"
+msgstr "Numérico"
+
+#: inc/default-options.php:213
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Predeterminado (Entradas anteriores / Entradas recientes)"
+
+#: inc/default-options.php:200 inc/default-options.php:236
+msgid "Full size"
+msgstr "Tamaño completo"
+
+#: inc/default-options.php:181
+msgid "Show Full Content (No Featured Image)"
+msgstr "Mostrar contenido completo (sin imagen destacada)"
+
+#: inc/default-options.php:166 inc/default-options.php:266
+msgid "No Sidebar ( Content Width )"
+msgstr "Sin barra lateral (ancho completo)"
+
+#: inc/default-options.php:165 inc/default-options.php:261
+msgid "Content, Primary Sidebar"
+msgstr "Contenido, barra lateral principal"
+
+#: inc/default-options.php:164 inc/default-options.php:256
+msgid "Primary Sidebar, Content"
+msgstr "Barra lateral principal, contenido"
+
+#: inc/default-options.php:151 inc/default-options.php:235
+#: inc/default-options.php:423 inc/default-options.php:468
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/default-options.php:150
+msgid "Pages and Posts"
+msgstr "Páginas y entradas"
+
+#: inc/default-options.php:146
+msgid "Excluding Homepage"
+msgstr "Excluyendo página inicial"
+
+#: inc/default-options.php:132
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/default-options.php:131
+msgid "Light"
+msgstr "Claro"
+
+#: inc/default-options.php:66
+msgid "Search..."
+msgstr "Buscar..."
+
+#: inc/default-options.php:61
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: inc/default-options.php:592
+msgid "Handset"
+msgstr "Auricular"
+
+#: inc/default-options.php:148 inc/default-options.php:422
+#: inc/default-options.php:467
+msgid "Entire Site"
+msgstr "Sitio completo"
+
+#: inc/default-options.php:49 inc/widgets/featured-posts.php:47
+msgid "Read More ..."
+msgstr "Leer más ..."
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Clean Business Pro"
+msgstr "Clean Business Pro"
+
+#: inc/customizer-includes/theme-options.php:411
+msgid "Default Display Text in Search"
+msgstr "Texto predeterminado en la búsqueda"
+
+#: inc/customizer-includes/theme-options.php:401
+msgid "Search Options"
+msgstr "Opciones de búsqueda"
+
+#: inc/customizer-includes/theme-options.php:389
+msgid "Check to disable Scroll Up"
+msgstr "Marcar para desactivar el scroll hacia arriba"
+
+#: inc/customizer-includes/theme-options.php:379
+msgid "Scrollup Options"
+msgstr "Opciones de Scroll"
+
+#: inc/customizer-includes/theme-options.php:353
+msgid "Promotion Headline Link"
+msgstr "Enlace del titular de promoción"
+
+#: inc/customizer-includes/theme-options.php:339
+msgid "Promotion Headline Button Text "
+msgstr "Texto del botón del titular de promoción"
+
+#: inc/customizer-includes/theme-options.php:338
+msgid "Appropriate Words: 3"
+msgstr "Palabras adecuadas: 3"
+
+#: inc/customizer-includes/theme-options.php:325
+msgid "Promotion Subheadline Text"
+msgstr "Texto del subtítulo de promoción"
+
+#: inc/customizer-includes/theme-options.php:324
+msgid "Appropriate Words: 15"
+msgstr "Palabras adecuadas: 15"
+
+#: inc/customizer-includes/theme-options.php:311
+msgid "Promotion Headline Text"
+msgstr "Texto del titular de promoción"
+
+#: inc/customizer-includes/theme-options.php:310
+msgid "Appropriate Words: 10"
+msgstr "Palabras adecuadas: 10"
+
+#: inc/customizer-includes/theme-options.php:296
+msgid "Enable Promotion Headline on"
+msgstr "Activar titular de promoción"
+
+#: inc/customizer-includes/theme-options.php:285
+msgid "Promotion Headline Options"
+msgstr "Opciones del titular de promoción"
+
+#: inc/customizer-includes/theme-options.php:282
+msgid "To disable the fields, simply leave them empty."
+msgstr "Para desactivar campos, simplemente déjalos vacíos."
+
+#: inc/customizer-includes/theme-options.php:273
+msgid "Pagination type"
+msgstr "Tipo de paginación"
+
+#: inc/customizer-includes/theme-options.php:262
+msgid "Pagination Options"
+msgstr "Opciones de paginación"
+
+#: inc/customizer-includes/theme-options.php:209 inc/metabox.php:88
+msgid "Single Page/Post Image Layout "
+msgstr "Diseño de entrada/página individual con imagen"
+
+#: inc/customizer-includes/theme-options.php:195
+msgid "Archive Content Layout"
+msgstr "Diseño del contenido de archivos"
+
+#: inc/customizer-includes/theme-options.php:181
+msgid "Default Layout"
+msgstr "Diseño predeterminado"
+
+#: inc/customizer-includes/theme-options.php:170 inc/metabox.php:86
+msgid "Layout Options"
+msgstr "Opciones del diseño"
+
+#: inc/customizer-includes/theme-options.php:156
+msgid "Select Categories"
+msgstr "Selecciona categorías"
+
+#: inc/customizer-includes/theme-options.php:146
+msgid "Homepage / Frontpage Options"
+msgstr "Opciones de la página inicial"
+
+#: inc/default-options.php:145 inc/default-options.php:421
+#: inc/default-options.php:466
+msgid "Homepage / Frontpage"
+msgstr "Página de inicio"
+
+#: inc/customizer-includes/theme-options.php:134
+msgid "Read More Text"
+msgstr "Texto de leer más"
+
+#: inc/customizer-includes/theme-options.php:120
+msgid "Excerpt Length (words)"
+msgstr "Longitud del extracto (palabras)"
+
+#: inc/customizer-includes/theme-options.php:113
+msgid "Excerpt length. Default is 55 words"
+msgstr "Longitud del extracto. Por defecto son 55 palabras"
+
+#: inc/customizer-includes/theme-options.php:103
+msgid "Excerpt Options"
+msgstr "Opciones del extracto"
+
+#: inc/customizer-includes/theme-options.php:90
+msgid "Enter Custom CSS"
+msgstr "Introducir CSS personalizado"
+
+#: inc/customizer-includes/theme-options.php:80
+msgid "Custom CSS Options"
+msgstr "Opciones de CSS personalizado"
+
+#: inc/customizer-includes/theme-options.php:77
+msgid "Custom/Inline CSS"
+msgstr "CSS inline personalizado"
+
+#: inc/customizer-includes/theme-options.php:15
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer-includes/theme-options.php:12
+msgid "Basic theme Options"
+msgstr "Opciones básicas del tema"
+
+#: inc/customizer-includes/social-icons.php:13
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: inc/customizer-includes/header-options.php:72
+#: inc/customizer-includes/theme-options.php:367
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Marcar para abrir el enlace en nueva ventana/pestaña"
+
+#: inc/customizer-includes/header-options.php:59
+msgid "Featured Header Image Link URL"
+msgstr "Enlace para la imagen destacada del encabezado"
+
+#: inc/customizer-includes/header-options.php:46
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Etiqueta ALT/título de la imagen destacada del encabezado"
+
+#: inc/customizer-includes/featured-slider.php:101
+msgid "No of Slides"
+msgstr "Número de diapositivas"
+
+#: inc/customizer-includes/featured-slider.php:57
+msgid "seconds(s)"
+msgstr "segundo(s)"
+
+#: inc/customizer-includes/featured-slider.php:79
+msgid "Select Slider Type"
+msgstr "Seleccionar tipo de slider"
+
+#: inc/customizer-includes/featured-slider.php:41
+msgid "Transition Effect"
+msgstr "Efecto de transición"
+
+#: inc/customizer-includes/featured-content.php:135
+msgid "No of Featured Content"
+msgstr "Número de contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:171
+#: inc/customizer-includes/featured-slider.php:121
+msgid "Featured Page"
+msgstr "Página destacada"
+
+#: inc/customizer-includes/featured-content.php:182
+msgid "Featured Content Background Settings"
+msgstr "Ajustes del fondo del contenido destacado"
+
+#: inc/customizer-includes/featured-slider.php:14
+msgid "Featured Slider"
+msgstr "Slider destacado"
+
+#: inc/customizer-includes/featured-slider.php:25
+msgid "Enable Slider on"
+msgstr "Activar slider"
+
+#: inc/customizer-includes/featured-slider.php:62
+msgid "Speed of the slideshow cycling"
+msgstr "Velocidad para el ciclo del pase de diapositivas"
+
+#: inc/customizer-includes/featured-content.php:79
+msgid "Select Content Type"
+msgstr "Seleccionar tipo de contenido"
+
+#: inc/customizer-includes/featured-content.php:63
+msgid "Check to Move above Footer"
+msgstr "Marcar para mover por encima del pie de página"
+
+#: inc/customizer-includes/featured-content.php:48
+msgid "Select Featured Content Layout"
+msgstr "Seleccionar el diseño del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:32
+msgid "Enable Featured Content on"
+msgstr "Activar contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:20
+msgid "Featured Content Options"
+msgstr "Opciones del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:15 inc/featured-content.php:43
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: inc/customizer-includes/customizer.php:113
+#: inc/customizer-includes/customizer.php:124
+msgid "Important Links"
+msgstr "Enlaces importantes"
+
+#: inc/customizer-includes/featured-content.php:13
+msgid "Options for Featured Content"
+msgstr "Opciones del contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:95
+msgid "Headline for Featured Content"
+msgstr "Titular para contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:112
+msgid "Sub-headline for Featured Content"
+msgstr "Subtítulo para contenido destacado"
+
+#: inc/customizer-includes/featured-content.php:94
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Dejar el campo vacío si quieres eliminar el titular"
+
+#: inc/customizer-includes/featured-content.php:111
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Dejar el campo vacío si quieres eliminar el subtítulo"
+
+#: inc/customizer-includes/customizer.php:91
+msgid "Reset all settings"
+msgstr "Restablecer todos los ajustes"
+
+#: inc/customizer-includes/custom-controls.php:57
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/customizer-includes/custom-controls.php:53
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/customizer-includes/custom-controls.php:49
+msgid "Theme Instructions"
+msgstr "Instrucciones del tema"
+
+#: inc/core.php:648 inc/template-tags.php:110
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Autor</span>"
+
+#: inc/customizer-includes/customizer.php:34
+msgid "Check to Hide Site Description/Tagline"
+msgstr "Marcar para ocultar la descripción del sitio"
+
+#: inc/customizer-includes/customizer.php:48
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Marcar para mover el título del sitio y la descripción antes del logo"
+
+#: inc/customizer-includes/customizer.php:71
+msgid "Color Scheme"
+msgstr "Esquema de colores"
+
+#: inc/customizer-includes/customizer.php:102
+msgid "Check to reset all settings to default"
+msgstr "Marcar para reestablecer todos los ajustes a valores predeterminados"
+
+#: inc/customizer-includes/featured-content.php:180
+msgid "Make sure Featured Content is enabled for these options to work"
+msgstr "Asegúrate que el contenido destacado está activo para que estas opciones funcionen"
+
+#: inc/customizer-includes/featured-content.php:128
+msgid "Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr "Guardar y refrescar la página si el número de contenido destacado se cambia (el número máximo de contenido destacado es 20)"
+
+#: inc/customizer-includes/featured-content.php:192
+msgid "Select/Add Background Image"
+msgstr "Seleccionar/Añadir imagen de fondo"
+
+#: inc/customizer-includes/featured-slider.php:94
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "Guardar y refrescar la página si el número de diapositivas se cambia (el número máximo de diapositivas es 20)"
+
+#: inc/customizer-includes/header-options.php:19
+msgid "Enable Featured Header Image on "
+msgstr "Activar imagen destacada del encabezado"
+
+#: inc/customizer-includes/theme-options.php:22
+msgid "Breadcrumb Options"
+msgstr "Opciones de las migas de pan"
+
+#: inc/customizer-includes/theme-options.php:33
+msgid "Check to Enable Breadcrumb"
+msgstr "Marcar para activar las migas de pan"
+
+#: inc/customizer-includes/theme-options.php:46
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Marcar para activar las migas de pan en la página inicial"
+
+#: inc/customizer-includes/theme-options.php:62
+msgid "Separator between Breadcrumbs"
+msgstr "Separador entre migas de pan"
+
+#: inc/breadcrumb.php:56
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/breadcrumb.php:217
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/breadcrumb.php:55
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$s ver todas las entradas por %2$s"
+
+#: inc/breadcrumb.php:54
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$s entradas etiquetadas %2$s"
+
+#: inc/breadcrumb.php:53
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s resultados de búsqueda para: %2$s"
+
+#: inc/breadcrumb.php:52
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s archivo para %2$s"
+
+#: inc/breadcrumb.php:51
+msgid "Home"
+msgstr "Inicio"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:184
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "en"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:178
+msgctxt "Merriweather: on or off"
+msgid "on"
+msgstr "en"
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: content-page.php:34 inc/template-tags.php:148
+msgid "Edit"
+msgstr "Editar"
+
+#: content-page.php:27 content-search.php:32 content-single.php:30
+#: content.php:40
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Sin resultados"
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:53 comments.php:71
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más recientes &rarr;"
+
+#: inc/widgets/featured-posts.php:239
+msgid "More Text (if applicable)"
+msgstr "Texto de leer más (si aplica)"
+
+#: inc/customizer-includes/theme-options.php:143
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "Sólo las entradas que pertenezcan a las categorías seleccionadas aquí se mostrarán en la página inicial"
+
+#: inc/core.php:639 inc/template-tags.php:103
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Pubicado en</span>"
+
+#: inc/core.php:618
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">Etiquetas</span>"
+
+#: inc/core.php:608 inc/template-tags.php:127
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">Categorías</span>"
+
+#: inc/core.php:605 inc/core.php:615
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: comments.php:52 comments.php:70
+msgid "&larr; Older Comments"
+msgstr "&larr; comentarios anteriores"
+
+#: comments.php:51 comments.php:69
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Pruebas uno de los enlaces de abajo o a realizar una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Upss, esa página no se encuentra."
+
+#: inc/default-options.php:147
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "Imagen destacada de página/entrada, excluyendo la página inicial"
+
+#: inc/default-options.php:60
+msgid "This is promotion headline. You can edit this from Appearance -> Customize -> Theme Options -> Promotion Headline Options"
+msgstr "Este es el titular de promoción. Puedes editarlo desde apariencia -> Personalizar -> Opciones del tema -> Opciones del titular de promoción"
+
+#: inc/default-options.php:59
+msgid "Clean Business is a Responsive WordPress Theme"
+msgstr "Clean Business es un tema adaptable de WordPress"
+
+#: inc/customizer-includes/theme-options.php:398
+msgid "Change default placeholder text in Search."
+msgstr "Cambiar el marcador de posición predeterminado en la búsqueda."
+
+#: inc/customizer-includes/theme-options.php:242
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "Las opciones de scroll infinito requieren el <a target=\"_blank\" href=\"%s\">plugin JetPack</a> con el módulo de scroll infinito activado."
+
+#: inc/customizer-includes/theme-options.php:20
+msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on homepage and entire site."
+msgstr "Las migas de pan son una opción ideal para permitir a tus visitantes saber de un vistazo donde se encuentran en tu sitio. Puedes activarlas o desactivarlas en la página inicial o el sitio completo."
+
+#: inc/customizer-includes/social-icons.php:26
+msgid "Skype link can be of formats: callto://+{number} or skype:{username}?{action}. More Information in readme file"
+msgstr "Los enlaces de Skype pueden ser: callto://+{number} o skype:{username}?{action}. Más información en el fichero Leeme"
+
+#: sidebar.php:39
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "De forma predeterminada cargará los widgets de búsqueda y archivos como se muestra a continuación. Puedes agregar widgets a este área visitando tu <a href=\"%s\"> panel de widgets </a> que reemplazará los widgets predeterminados."
+
+#: inc/widgets/tag-cloud.php:160
+msgid "Unit of measure as pertains to the smallest and largest values. This can be any CSS length value."
+msgstr "Unidad de medida en cuanto a los valores más pequeños y más grandes. Esto puede ser cualquier valor de longitud CSS."
+
+#: inc/widgets/tag-cloud.php:140
+msgid "The text size of the tag with the largest count value (units given by unit parameter). "
+msgstr "El tamaño del texto de la etiqueta con el valor de recuento más grande (unidades dadas en el parámetro de unidad)."
+
+#: inc/widgets/tag-cloud.php:123
+msgid "Use Custom Taxonomy Slug separated by comma(,)"
+msgstr "Usar slugs de taxonomías personalizadas separadas por comas (,)"
+
+#: inc/core.php:584 inc/customizer-includes/custom-controls.php:36
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "Mantener presionado la tecla Ctrl (Windows) / Command (Mac) para seleccionar múltiples opciones."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no se ajusta nada a tus términos de búsqueda. Por favor, prueba otra vez con otras palabras diferentes."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primer post? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: inc/widgets/tag-cloud.php:133
+msgid "The text size of the tag with the smallest count value (units given by unit parameter). "
+msgstr "El tamaño del texto de la etiqueta con el valor de recuento más pequeño (unidades dadas por el parámetro de unidad)."
+
+#: inc/widgets/social-icons.php:71
+msgid "You can add social icons from Customizer Panel <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Puedes añadir iconos sociales desde el panel del personalizador <a href=\"%s\" target=\"_blank\">aquí</a>."
+
+#: inc/widgets/tag-cloud.php:42
+msgid "Displays Custom Tag Cloud with selected layout"
+msgstr "Muestra la nube de etiquetas personalizada con el diseño seleccionado"
+
+#: inc/featured-content.php:44
+msgid "Here you can showcase the x number of Featured Content. You can edit this Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> Featured Content Options\"."
+msgstr "Aquí puedes mostrar el número X de contenido destacado. Puedes editar esto en el titular, subtítulo y contenido destacado desde \"Apariencia -> Personalizar -> Opciones de contenido destacado\"."
+
+#: inc/default-options.php:180
+msgid "Excerpt Image Top"
+msgstr "Extracto con imagen arriba"
+
+#: inc/default-options.php:179
+msgid "Excerpt Image Right"
+msgstr "Extracto con imagen a la derecha"
+
+#: inc/default-options.php:178
+msgid "Excerpt Image Left"
+msgstr "Extracto con imagen a la izquierda"
+
+#: inc/default-options.php:149
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Sitio entero, Página/Entrada con imagen destacada"
+
+#: inc/customizer-includes/header-options.php:33
+msgid "Page/Post Featured Header Image Size"
+msgstr "Tamaño de la imagen del encabezado destacado de la Página/Entrada "
+
+#: inc/customizer-includes/customizer.php:89
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "Atención: reestablece todos los ajutes a los predeterminados. Refrescar la página después de guardar para ver los efectos completos."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizás la búqueda puede ayudarte."
+
+#: inc/customizer-includes/theme-options.php:222
+msgid "<a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a> is recommended for Numeric Option(But will work without it).<br/>Infinite Scroll Options requires <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "<a target=\"_blank\" href=\"%1$s\">Se recomienda el plugin WP-PageNavi</a> para opciones numéricas (aunque funcionará sin él).<br/> Las opciones de scroll infinito requieren el <a target=\"_blank\" href=\"%2$s\">plugin JetPack</a> con el módulo de scroll infinito activado."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#. Author of the plugin/theme
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Author URI of the plugin/theme
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Theme URI of the plugin/theme
+msgid "https://catchthemes.com/themes/clean-business/"
+msgstr "https://catchthemes.com/themes/clean-business/"

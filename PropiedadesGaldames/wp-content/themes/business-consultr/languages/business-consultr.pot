@@ -1,0 +1,1342 @@
+# Copyright (C) 2018 Keon Themes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Consultr 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-07-02 13:24:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: comments.php:55 deploy/business-consultr/comments.php:55
+msgid "Reply"
+msgstr ""
+
+#: comments.php:61 deploy/business-consultr/comments.php:61
+msgid "Previous"
+msgstr ""
+
+#: comments.php:62 deploy/business-consultr/comments.php:62
+#: deploy/business-consultr/index.php:42 deploy/business-consultr/search.php:30
+#: index.php:42 search.php:30
+msgid "Next"
+msgstr ""
+
+#: comments.php:70 deploy/business-consultr/comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: deploy/business-consultr/functions.php:72 functions.php:72
+msgid "hit enter for search."
+msgstr ""
+
+#: deploy/business-consultr/functions.php:73 functions.php:73
+msgid "search..."
+msgstr ""
+
+#: deploy/business-consultr/functions.php:110 functions.php:110
+#. translators: 1: edit user link, 2: accessibility text, 3: user name, 4:
+#. logout URL
+msgid ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a> <a "
+"href=\"%4$s\">Log out?</a>"
+msgstr ""
+
+#: deploy/business-consultr/functions.php:113 functions.php:113
+#. translators: %s: user name
+msgid "Logged in as %s. Edit your profile."
+msgstr ""
+
+#: deploy/business-consultr/functions.php:247 functions.php:247
+msgid "Search Results for: "
+msgstr ""
+
+#: deploy/business-consultr/functions.php:458 functions.php:458
+msgid "Theme Demo Content"
+msgstr ""
+
+#: deploy/business-consultr/functions.php:464 functions.php:464
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: deploy/business-consultr/header.php:29 header.php:29
+msgid "Site Loader"
+msgstr ""
+
+#: deploy/business-consultr/header.php:37 header.php:37
+msgid "Skip to content"
+msgstr ""
+
+#: deploy/business-consultr/inc/back-compat.php:36
+#: deploy/business-consultr/inc/back-compat.php:48
+#: deploy/business-consultr/inc/back-compat.php:62 inc/back-compat.php:36
+#: inc/back-compat.php:48 inc/back-compat.php:62
+msgid ""
+"Business Consultr requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: deploy/business-consultr/inc/setup.php:41 inc/setup.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: deploy/business-consultr/inc/setup.php:42 inc/setup.php:42
+msgid "Social Menu"
+msgstr ""
+
+#: deploy/business-consultr/inc/setup.php:43 inc/setup.php:43
+msgid "Footer Menu"
+msgstr ""
+
+#: deploy/business-consultr/inc/setup.php:68 inc/setup.php:68
+msgid "Default Header Image"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar"
+msgstr ""
+
+#: deploy/business-consultr/inc/setup.php:173
+#: deploy/business-consultr/inc/setup.php:184 inc/setup.php:173
+#: inc/setup.php:184
+msgid "Add widgets here."
+msgstr ""
+
+#: deploy/business-consultr/inc/setup.php:182 inc/setup.php:182
+msgid "Footer"
+msgstr ""
+
+#: deploy/business-consultr/inc/template-tags.php:24 inc/template-tags.php:24
+msgid "EDIT<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: deploy/business-consultr/inc/template-tags.php:73 inc/template-tags.php:73
+msgid "Tags"
+msgstr ""
+
+#: deploy/business-consultr/inc/template-tags.php:83 inc/template-tags.php:83
+msgid "Categories"
+msgstr ""
+
+#: deploy/business-consultr/inc/template-tags.php:185 inc/template-tags.php:185
+msgid "Posted on"
+msgstr ""
+
+#: deploy/business-consultr/index.php:42 deploy/business-consultr/search.php:30
+#: index.php:42 search.php:30
+msgid "Next page"
+msgstr ""
+
+#: deploy/business-consultr/index.php:43 deploy/business-consultr/search.php:31
+#: index.php:43 search.php:31
+msgid "Prev"
+msgstr ""
+
+#: deploy/business-consultr/index.php:43 deploy/business-consultr/search.php:31
+#: index.php:43 search.php:31
+msgid "Previous page"
+msgstr ""
+
+#: deploy/business-consultr/index.php:44 deploy/business-consultr/search.php:32
+#: index.php:44 search.php:32
+msgid "Page"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:244
+#: modules/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:246
+#: deploy/business-consultr/modules/helpers/helpers.php:180
+#: modules/breadcrumbs/breadcrumbs.php:246 modules/helpers/helpers.php:180
+msgid "Home"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:247
+#: modules/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:248
+#: modules/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:250
+#: modules/breadcrumbs/breadcrumbs.php:250
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:252
+#: modules/breadcrumbs/breadcrumbs.php:252
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:254
+#: modules/breadcrumbs/breadcrumbs.php:254
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:256
+#: modules/breadcrumbs/breadcrumbs.php:256
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Business Consultr"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:17
+#: modules/customizer/defaults/defaults.php:17
+msgid "Consultant WP Theme"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:39
+#: modules/customizer/defaults/defaults.php:37
+msgid "Recent Blog"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:44
+#: modules/customizer/defaults/defaults.php:42
+msgid "Complete Your Consultr Partner"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:45
+#: modules/customizer/defaults/defaults.php:43
+msgid "Get a Quote"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:46
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:62
+#: modules/customizer/defaults/defaults.php:44
+#: modules/customizer/defaults/defaults.php:60
+msgid "#"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:58
+#: modules/customizer/defaults/defaults.php:56
+msgid "111 Rock Street, San Francisco"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:59
+#: modules/customizer/defaults/defaults.php:57
+msgid "yourmail@email.com"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:60
+#: modules/customizer/defaults/defaults.php:58
+msgid "1 (234) 567-891"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:61
+#: modules/customizer/defaults/defaults.php:59
+msgid "Quick Quote"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:85
+#: modules/customizer/defaults/defaults.php:83
+msgid "Business Consultr Theme by"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Keon Themes"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/defaults/defaults.php:87
+#: modules/customizer/defaults/defaults.php:85
+msgid " Copyright &copy; All Rights Reserved."
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/framework/category-control.php:23
+#: modules/customizer/framework/category-control.php:23
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/framework/customizer.php:268
+#: deploy/business-consultr/modules/customizer/framework/customizer.php:308
+#: modules/customizer/framework/customizer.php:268
+#: modules/customizer/framework/customizer.php:308
+msgid "No Title Specified."
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/framework/post-control.php:39
+#: modules/customizer/framework/post-control.php:39
+msgid "Select"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/loader.php:21
+#: modules/customizer/loader.php:21
+msgid "Background"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/panels/panels.php:13
+#: modules/customizer/panels/panels.php:13
+msgid "Front Page Options"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/panels/panels.php:16
+#: modules/customizer/panels/panels.php:16
+msgid "Theme Options"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:15
+#: modules/customizer/sections/sections.php:15
+msgid "Slider"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:19
+#: modules/customizer/sections/sections.php:19
+msgid "Service"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:23
+#: modules/customizer/sections/sections.php:23
+msgid "About"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:27
+#: modules/customizer/sections/sections.php:27
+msgid "Portfolio"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:31
+#: modules/customizer/sections/sections.php:31
+msgid "Callback"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:35
+#: modules/customizer/sections/sections.php:35
+msgid "Testimonial"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:39
+#: modules/customizer/sections/sections.php:39
+msgid "Blog"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:43
+#: modules/customizer/sections/sections.php:43
+msgid "Contact"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:49
+#: modules/customizer/sections/sections.php:49
+msgid "Header Options"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:53
+#: modules/customizer/sections/sections.php:53
+msgid "Layout Options"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:57
+#: modules/customizer/sections/sections.php:57
+msgid "Blog Options"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/sections/sections.php:61
+#: modules/customizer/sections/sections.php:61
+msgid "Footer Options"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:15
+#: modules/customizer/settings/frontpage.php:15
+msgid "Slider Page"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:18
+#: modules/customizer/settings/frontpage.php:18
+msgid ""
+"Input page id. Separate with comma. for eg. 2,9,23. Supports Maximum 3 "
+"sliders."
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:21
+#: modules/customizer/settings/frontpage.php:21
+msgid "Show Slider Control"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:27
+#: modules/customizer/settings/frontpage.php:27
+msgid "Slider Auto Play"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:32
+#: modules/customizer/settings/frontpage.php:32
+msgid "Slider Timeout ( in sec )"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:37
+msgid "Disable Banner Overlay"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:42
+msgid "Disable Slider Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:48
+#: modules/customizer/settings/frontpage.php:39
+msgid "Service Page"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:51
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:82
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:127
+#: modules/customizer/settings/frontpage.php:42
+#: modules/customizer/settings/frontpage.php:73
+#: modules/customizer/settings/frontpage.php:118
+msgid "Input page id. Separate with comma. for eg. 2,9,23"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:54
+#: modules/customizer/settings/frontpage.php:45
+msgid "Disable Service Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:61
+#: modules/customizer/settings/frontpage.php:52
+msgid "Select Title page for About"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:66
+#: modules/customizer/settings/frontpage.php:57
+msgid "Disable About Us Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:73
+#: modules/customizer/settings/frontpage.php:64
+msgid "Select Title Page for Portfolio"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:79
+#: modules/customizer/settings/frontpage.php:70
+msgid "Portfolio Page"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:85
+#: modules/customizer/settings/frontpage.php:76
+msgid "Disable Portfolio Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:92
+#: modules/customizer/settings/frontpage.php:83
+msgid "Background Image"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:97
+#: modules/customizer/settings/frontpage.php:88
+msgid "Title"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:102
+#: modules/customizer/settings/frontpage.php:93
+msgid "Button Text"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:107
+#: modules/customizer/settings/frontpage.php:98
+msgid "Button URL"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:112
+#: modules/customizer/settings/frontpage.php:103
+msgid "Disable Callback Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:119
+#: modules/customizer/settings/frontpage.php:110
+msgid "Select Title page for Testimonial"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:124
+#: modules/customizer/settings/frontpage.php:115
+msgid "Testimonial Pages"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:130
+#: modules/customizer/settings/frontpage.php:121
+msgid "Disable Testimonial Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:137
+#: modules/customizer/settings/frontpage.php:128
+msgid "Select Title page for Blog"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:142
+#: modules/customizer/settings/frontpage.php:133
+msgid "Choose Blog Category"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:147
+#: modules/customizer/settings/frontpage.php:138
+msgid "Number of Posts"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:156
+#: modules/customizer/settings/frontpage.php:147
+msgid "Disable Blog Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:163
+#: modules/customizer/settings/frontpage.php:154
+msgid "Select Title Page for Cotact"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:168
+#: modules/customizer/settings/frontpage.php:159
+msgid "Shortcode"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:170
+#: modules/customizer/settings/frontpage.php:161
+msgid "Add a Contact Form 7 Shortcode."
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/frontpage.php:174
+#: modules/customizer/settings/frontpage.php:165
+msgid "Disable Contact Section"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:14
+#: modules/customizer/settings/general.php:14
+msgid "Site Title"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:20
+#: modules/customizer/settings/general.php:20
+msgid "Site Tagline"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:26
+#: modules/customizer/settings/general.php:26
+msgid "Primary"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:31
+#: modules/customizer/settings/general.php:31
+msgid "Secondary"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:36
+#: modules/customizer/settings/general.php:36
+msgid "Alternate"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:44
+#: modules/customizer/settings/general.php:44
+msgid "Address"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:49
+#: modules/customizer/settings/general.php:49
+msgid "Email"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:54
+#: modules/customizer/settings/general.php:54
+msgid "Phone"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:59
+#: modules/customizer/settings/general.php:59
+msgid "Disable Top Header"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:65
+#: modules/customizer/settings/general.php:65
+msgid "Header Button Text"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:71
+#: modules/customizer/settings/general.php:71
+msgid "Header Button Link"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:77
+#: modules/customizer/settings/general.php:77
+msgid "Disable Header Button"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:82
+#: modules/customizer/settings/general.php:82
+msgid "Disable Fixed Header"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:88
+#: modules/customizer/settings/general.php:88
+msgid "Archive Layout"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:94
+#: modules/customizer/settings/general.php:94
+msgid "No Sidebar"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:98
+#: modules/customizer/settings/general.php:98
+msgid "Archive Post Layout"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:102
+#: modules/customizer/settings/general.php:102
+msgid "Grid"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:103
+#: modules/customizer/settings/general.php:103
+msgid "Simple"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:107
+#: modules/customizer/settings/general.php:107
+msgid "Archive Post Image"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:111
+#: modules/customizer/settings/general.php:111
+msgid "Thumbnail (150x150)"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:112
+#: modules/customizer/settings/general.php:112
+msgid "Medium (300x300)"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:113
+#: modules/customizer/settings/general.php:113
+msgid "Large (1024x1024)"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:114
+#: modules/customizer/settings/general.php:114
+msgid "Full (original)"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:115
+#: modules/customizer/settings/general.php:115
+msgid "Default (390x320)"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:119
+#: modules/customizer/settings/general.php:119
+msgid "Archive Post Image Alignment"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:123
+#: modules/customizer/settings/general.php:123
+msgid "Left"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:124
+#: modules/customizer/settings/general.php:124
+msgid "Right"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:125
+#: modules/customizer/settings/general.php:125
+msgid "Center"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:130
+#: modules/customizer/settings/general.php:130
+msgid "Blog Page Title"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:136
+#: modules/customizer/settings/general.php:136
+msgid "Enable Scroll top in mobile"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:142
+#: modules/customizer/settings/general.php:142
+msgid "Disable Footer Widget"
+msgstr ""
+
+#: deploy/business-consultr/modules/customizer/settings/general.php:147
+#: modules/customizer/settings/general.php:147
+msgid "Footer Text"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/loader.php:63
+#: modules/tgm-plugin-activation/loader.php:63
+msgid "Contact Form 7"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/loader.php:69
+#: modules/tgm-plugin-activation/loader.php:69
+msgid "WooCommerce"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/loader.php:75
+#: modules/tgm-plugin-activation/loader.php:75
+msgid "JetPack"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/loader.php:81
+#: modules/tgm-plugin-activation/loader.php:81
+msgid "One Click Demo Import"
+msgstr ""
+
+#: deploy/business-consultr/single.php:35 single.php:35
+msgid "Previous Post"
+msgstr ""
+
+#: deploy/business-consultr/single.php:36 single.php:36
+msgid "Next Post"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/front-page/about.php:51
+#: template-parts/front-page/about.php:51
+msgid "Know More"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/front-page/services.php:62
+#: template-parts/front-page/services.php:62
+msgid "Read More"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/front-page/slider.php:49
+#: template-parts/front-page/slider.php:49
+msgid "Learn More"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/page/content-none.php:17
+#: template-parts/page/content-none.php:17
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/page/content-none.php:20
+#: template-parts/page/content-none.php:20
+msgid "NOTHING FOUND"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/page/content-none.php:28
+#: template-parts/page/content-none.php:28
+msgid "It looks like nothing was found. Want to try another by search?"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/page/content-none.php:31
+#: template-parts/page/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps another "
+"searching can help."
+msgstr ""
+
+#: deploy/business-consultr/template-parts/page/content-none.php:43
+#: template-parts/page/content-none.php:43
+msgid "Add New Post"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/page/content.php:21
+#: deploy/business-consultr/template-parts/single/content.php:21
+#: template-parts/page/content.php:21 template-parts/single/content.php:21
+msgid "Pages:"
+msgstr ""
+
+#: deploy/business-consultr/template-parts/single/content-author-detail.php:15
+#: template-parts/single/content-author-detail.php:15
+msgid "Post Author:"
+msgstr ""
+
+#: deploy/business-consultr/trt-customize-pro/example-1/class-customize.php:76
+#: trt-customize-pro/example-1/class-customize.php:76
+msgid "Business Consultr Pro"
+msgstr ""
+
+#: deploy/business-consultr/trt-customize-pro/example-1/class-customize.php:78
+#: trt-customize-pro/example-1/class-customize.php:78
+msgid "Go Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://keonthemes.com/downloads/business-consultr"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Business Consultr Professional WordPress Consultant Firm theme is designed "
+"with a unique concept for the Advisor and Consultr Professionals. This "
+"versatile, multi-purpose theme is perfect for Agency, Finance, Education, "
+"Corporate, Business, Company, Blog and Creative Portfolio. Business "
+"Consultr is built with Responsive Layout on Bootstrap and comes with "
+"unlimited color options. The clean and lean code means that it loads "
+"quickly too, so you wonΓÇÖt keep your clients waiting. The Theme Options "
+"panel in WordPress Customizer lets you edit your content in real-time. This "
+"means that you can play around with the look and feel of your site with an "
+"instant preview, before your changes go live. Business Consultr is Ultimate "
+"WordPress Theme with stunning features like, One-click demo content import, "
+"WooCommerce Ready, Cross-Browser Compatibility: FireFox, Safari, Chrome, "
+"IE10+, Right-to-Left Language Support, Sidebar layout options, Post Layout "
+"options, Custom page templates, Modern and thin KFI Icons, Regular Updates, "
+"Professional Support and Well documented. Demo: "
+"https://keonthemes.com/theme-demo/?id=MTI5NXxidXNpbmVzcy1jb25zdWx0aW5nfEJ1c2"
+"luZXNzIENvbnN1bHRpbmc"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://keonthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Compact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr ""
+
+#: comments.php:31 deploy/business-consultr/comments.php:31
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:35 deploy/business-consultr/comments.php:35
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:245
+#: modules/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:708
+#: modules/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:725
+#: modules/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:742
+#: modules/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:758
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:787
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:814
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:841
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:1176
+#: modules/breadcrumbs/breadcrumbs.php:758
+#: modules/breadcrumbs/breadcrumbs.php:787
+#: modules/breadcrumbs/breadcrumbs.php:814
+#: modules/breadcrumbs/breadcrumbs.php:841
+#: modules/breadcrumbs/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:759
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:815
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:1180
+#: modules/breadcrumbs/breadcrumbs.php:759
+#: modules/breadcrumbs/breadcrumbs.php:815
+#: modules/breadcrumbs/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:760
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:1184
+#: modules/breadcrumbs/breadcrumbs.php:760
+#: modules/breadcrumbs/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: deploy/business-consultr/modules/breadcrumbs/breadcrumbs.php:788
+#: modules/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: deploy/business-consultr/modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+#: modules/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

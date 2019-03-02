@@ -1,0 +1,51 @@
+# Translation of Themes - Zerius in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Zerius package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-05 09:44:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Zerius\n"
+
+#. Description of the plugin/theme
+msgid "Zerius is a clean, modern, and animated free one-page parallax WordPress theme."
+msgstr "Serias es un tema para WordPress de una sola página, con efecto Parallax, moderno y con animaciones."
+
+#. Theme Name of the plugin/theme
+msgid "Zerius"
+msgstr "Zerius"
+
+#: functions.php:76
+msgid "Notification"
+msgstr "Aviso"
+
+#: functions.php:65 functions.php:93
+msgid "This child theme is not maintained anymore, consider using the parent theme %1$s or check-out our latest free one-page theme: %2$s."
+msgstr "Este tema hijo ya no recibe mantenimiento, plantéate usar el tema padre %1$s o échale  un vistazo a %2$s, nuestro último tema para webs de una página."
+
+#: functions.php:112
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:110
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: functions.php:109 functions.php:110
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"

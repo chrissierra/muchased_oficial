@@ -1,0 +1,493 @@
+/*
+Theme Name: Finance Consultr
+Theme URI: https://keonthemes.com/downloads/finance-consultr/
+Author: Keon Themes
+Author URI: https://keonthemes.com/
+Description: Finance Consultr WordPress theme is suitable for financial Centers or Advisors, Finance Recruitment, Cooperatives, Marketing Agency, Law Firms, Consults, Wealth Advisors, Investors and Accounting Businesses. Finance Consultr Professional WordPress Consultant Firm theme is designed with a unique concept for the Adviser and Consulting Professionals. This versatile, multi-purpose theme is perfect for Agency, Finance, Education, Medical, Clinic, Construction, Corporate, Business, Company, Blog and Creative Portfolio. Finance Consultr is built with Responsive Layout on Bootstrap and comes with unlimited color options. The clean and lean code means that it loads quickly too, so you won’t keep your clients waiting. The Theme Options panel in WordPress Customizer lets you edit your content in real-time. This means that you can play around with the look and feel of your site with an instant preview, before your changes go live. Finance Consultr is Ultimate WordPress Theme with stunning features like, One-click demo content import, WooCommerce Ready, Cross-Browser Compatibility: FireFox, Safari, Chrome, IE10+, Right-to-Left Language Support, Sidebar layout options, Post Layout options, Custom page templates, Font Icons.
+Version: 1.0.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: business-consultr
+Text Domain: finance-consultr
+Tags: blog, portfolio, education, grid-Layout, two-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*======================================*/
+/* General */
+/*======================================*/
+body .top-header .top-header-left .list span {
+  color: #5cb6ce;
+}
+
+body .top-header .top-header-right .search-icon,
+body .top-header .top-header-right .cart-icon {
+  border-left-color: rgba(255,255,255,0.4);
+}
+
+body .block-top-footer .widget ul li,
+body .block-top-footer .widget ol li {
+    border-color: rgba(255,255,255,0.15);
+}
+
+body .top-header .top-header-right .cart-icon a .count {
+    background-color: #5cb6ce;
+}
+
+body .banner-overlay, .post-content-overlay .post-thumb figure a {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+body .block-top-footer strong {
+    color: #b9b9b9;
+}
+
+/*======================================*/
+/* Primary color */
+/*======================================*/
+
+/*======================================*/
+/* Background */
+/*======================================*/
+body .icon-block-outer:hover,
+body .icon-block-outer:focus,
+body .icon-block-outer:active,
+body #go-top span:hover,
+body #go-top span:focus,
+body #go-top span:active,
+body .page-numbers.current,
+body .sub-title:before,
+body .searchform .search-button {
+	background-color: #447EAE;
+}
+
+/*======================================*/
+/* Border */
+/*======================================*/
+body .block-portfolio.block-grid .post-content:hover .post-content-inner,
+body .block-portfolio.block-grid .post-content:focus .post-content-inner,
+body .block-portfolio.block-grid .post-content:active .post-content-inner,
+body #go-top span:hover,
+body #go-top span:focus,
+body #go-top span:active,
+body .main-navigation ul ul,
+body .page-numbers.current,
+body .searchform .search-button {
+	border-color: #447EAE;
+}
+
+/*======================================*/
+/* Text */
+/*======================================*/
+
+body .icon-block-outer .icon-outer span,
+body .icon-block-outer .icon-content-area .button-container .button-text,
+body .icon-block-outer .icon-content-area .button-container .button-text:before,
+body .block-testimonial .slide-item article.post-content .post-content-inner .post-title cite span {
+	color: #447EAE;
+}
+
+/*======================================*/
+/* Secondary color */
+/*======================================*/
+
+/*======================================*/
+/* Background */
+/*======================================*/
+
+body .button-primary,
+body .block-contact .contact-form-section input[type="submit"],
+body .block-contact .kt-contact-form-area .form-group input.form-control[type="submit"],
+body .wrap-detail-page .contact-form-section input[type="submit"],
+body .wrap-detail-page .kt-contact-form-area .form-group input.form-control[type="submit"],
+body .block-grid .post-content .post-content-inner span.cat a,
+body .block-grid .post-content .post-content-inner .button-container .post-footer-detail .post-format-outer > span a,
+body .block-grid .post-content .post-content-inner .button-container .post-footer-detail .post-format-outer > span span,
+body .comments-area .comment-respond .comment-form .submit {
+	background-color: #51c5eb;
+}
+
+/*======================================*/
+/* Border */
+/*======================================*/
+
+body .button-primary,
+body .block-contact .contact-form-section input[type="submit"],
+body .wrap-detail-page .contact-form-section input[type="submit"],
+body .wrap-detail-page .kt-contact-form-area .form-group input.form-control[type="submit"],
+body .block-contact .kt-contact-form-area .form-group input.form-control[type="submit"],
+body .comments-area .comment-respond .comment-form .submit,
+body .block-contact .kt-contact-form-area .form-group input.form-control:focus,
+body .block-contact .kt-contact-form-area .form-group input.form-control:active,
+body .block-contact .kt-contact-form-area .form-group textarea.form-control:focus,
+body .block-contact .kt-contact-form-area .form-group textarea.form-control:active,
+body .wrap-detail-page .kt-contact-form-area .form-group input.form-control:focus,
+body .wrap-detail-page .kt-contact-form-area .form-group input.form-control:active,
+body .wrap-detail-page .kt-contact-form-area .form-group textarea.form-control:focus,
+body .wrap-detail-page .kt-contact-form-area .form-group textarea.form-control:active {
+	border-color: #51c5eb;
+}
+
+/*======================================*/
+/* Alternate color */
+/*======================================*/
+
+/*======================================*/
+/* Border */
+/*======================================*/
+
+body .block-portfolio.block-grid .post-content .post-content-inner {
+	border-color: #51c5eb;
+}
+
+body .block-portfolio.block-grid .post-content .post-content-inner:hover,
+body .block-portfolio.block-grid .post-content .post-content-inner:focus,
+body .block-portfolio.block-grid .post-content .post-content-inner:active {
+    border-color: #447EAE;
+}
+
+/*======================================*/
+/* Font Family */
+/*======================================*/
+
+/*======================================*/
+/* Title */
+/*======================================*/
+
+h1, h2, body.woocommerce.single-product .product_title, h3, h4, h5, h6, h1 a, h2 a, body.woocommerce.single-product .product_title a, h3 a, h4 a, h5 a, h6 a, .wrap-inner-banner .page-header .page-title, .sub-title, .widget .widget-title, .widget .widgettitle, .block-grid .post-content .post-content-inner .post-title h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*======================================*/
+/* Body */
+/*======================================*/
+
+html, body, button, input, select, textarea, blockquote, pre, code, kbd, tt, var, input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea, .wpcf7-form-control, .form-control, input[type="button"], input[type="reset"], input[type="submit"], input[type="button"]:hover, input[type="button"]:active, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:active, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus, .button, .button-primary, .button-light, .comments-area .comment-list .reply a, .button-outline, .button-outline:hover, .button-outline:focus, .button-outline:active, .woocommerce ul.products li.product .button, .woocommerce ul.products li.product a.added_to_cart, .woocommerce #respond input#submit, .woocommerce input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce button.button.alt, .woocommerce a.button.alt, .woocommerce input.button.alt, .nav-links .nav-previous a:before, .nav-links .nav-previous a:after, .nav-links .nav-next a:before, .nav-links .nav-next a:after, .author-detail .author-content .author-name, .author-detail .author-content .author-name span, .related-post .related-post-list h3 a, .searchform .search-button, .site-header .site-branding .site-title a, .block-grid .post-content .post-content-inner .button-container .button-text, .icon-block-outer .icon-content-area .button-container .button-text, .block-testimonial .slide-item article.post-content .post-content-inner .post-title cite {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*======================================*/
+/* Header Section */
+/*======================================*/
+
+/*======================================*/
+/* Top */
+/*======================================*/
+
+body .top-header-right .callback-button .button-primary {
+  line-height: 28px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+body .offcanvas-menu-open .kt-offcanvas-overlay {
+  z-index: 99991;
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  body .top-header .top-header-right .socialgroup {
+    padding-right: 0;
+  }
+
+  body .top-header .top-header-right .cart-icon {
+      padding: 12px 7px;
+  }
+}
+@media screen and (max-width: 767px) {
+  body .top-header .top-header-right .socialgroup ul {
+    margin-left: 0;
+  }
+
+  body .top-header .top-header-left {
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+  }
+
+  body .top-header .top-header-right .cart-icon {
+    border-left-color: rgba(255,255,255,0.2);
+  }
+}
+
+@media screen and (max-width: 479px){
+  body .top-header-right .callback-button a {
+    display: block;
+    margin-bottom: 15px;
+  }
+}
+
+/*======================================*/
+/* Primary */
+/*======================================*/
+
+body .site-header #primary-nav-container {
+  float: left;
+  text-align: right;
+  width: calc(100% - 40px);
+  vertical-align: top;
+}
+
+body .header-bottom-right #search-form {
+  display: none;
+}
+
+body .header-bottom-right #search-form.search-slide {
+  display: block;
+}
+
+body .header-bottom-right .search-icon-wrapper,
+body .header-bottom-right .search-icon {
+  position: relative;
+}
+
+body .header-bottom-right .search-icon {
+  display: inline-block;
+  border-left: none;
+  padding: 5px;
+}
+
+body .site-header .header-bottom-right > span a span {
+  color: #10242b;
+}
+
+body .header-bottom-right .search-icon a {
+  color: #10242b;
+}
+
+body .header-bottom-right .search-icon a:hover,
+body .header-bottom-right .search-icon a:focus,
+body .header-bottom-right .search-icon a:active {
+  color: #0081FE;
+}
+
+body .header-bottom-right #searchform {
+  position: absolute;
+  width: 280px;
+  right: 10px;
+  top: 51px;
+  z-index: 99999;
+}
+
+body .header-bottom-right #searchform > div:before {
+  content: "";
+  display: inline-block;
+  right: 2px;
+  position: absolute;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  border-top: 12px solid #ebf1f6;
+  border-left: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+  top: -6px;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+
+body .header-bottom-right #searchform label,
+body .header-bottom-right #searchform .searchform .search-button,
+.searchform body .header-bottom-right #searchform .search-button {
+  width: 100%;
+  position: relative;
+}
+
+body .header-bottom-right #searchform input[type="text"] {
+  border: 1px solid #ebf1f6;
+  background-color: #ebf1f6;
+  color: #4d4d4d;
+}
+
+body .header-bottom-right #searchform input[type="text"]::-webkit-input-placeholder {
+  color: #10242b;
+}
+
+body .header-bottom-right #searchform input[type="text"]:-moz-placeholder {
+  color: #10242b;
+}
+
+body .header-bottom-right #searchform input[type="text"]::-moz-placeholder {
+  color: #10242b;
+}
+
+body .header-bottom-right #searchform input[type="text"]:-ms-input-placeholder {
+  color: #10242b;
+}
+
+body .header-bottom-right #searchform .search-button {
+  display: none;
+}
+
+@media screen and (max-width: 1199px){
+  body .site-header .header-bottom-right > span a {
+    padding: 5px;
+  }
+
+  body .header-bottom-right .search-icon {
+    padding: 10px 5px 5px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  body .header-bottom-right .search-icon {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  body .header-bottom-right #searchform {
+    width: 180px;
+  }
+}
+
+/*======================================*/
+/* Home Service Section */
+/*======================================*/
+
+body .block-service .post-content-inner .post-thumb {
+   width: 215px;
+   height: 215px;
+}
+
+body .block-service .post-content-inner .post-thumb img {
+  width: 100%;
+  height: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  border-radius: 100%;
+}
+
+body .icon-area {
+  margin-top: -40px;
+  position: relative;
+}
+
+body .icon-block-outer {
+	padding: 40px;
+}
+
+body .icon-block-outer .icon-outer {
+  display: inline-block;
+  margin-bottom: 10px;
+  height: 80px;
+  width: 80px;
+  background: #fff;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  border-radius: 100%;
+  -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.09);
+  -moz-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.09);
+  -ms-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.09);
+  -o-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.09);
+  box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.09);
+}
+
+body .icon-block-outer .icon-outer span {
+  font-size: 30px;
+  padding: 10px;
+  color: #447EAE !important;
+  line-height: 80px;
+}
+
+body .icon-block-outer {
+ -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+ -ms-border-radius: 5px;
+ -o-border-radius: 5px;
+ border-radius: 5px;
+}
+
+body .top-header .top-header-right .search-icon {
+  border-left: none;
+  background-color: #447EAE;
+  float: right;
+  padding: 0;
+}
+
+body .top-header .top-header-right .search-icon a {
+  display: block;
+  padding: 12px 15px;
+  -webkit-transition: background-color 0.5s;
+  -moz-transition: background-color 0.5s;
+  -ms-transition: background-color 0.5s;
+  -o-transition: background-color 0.5s;
+  transition: background-color 0.5s;
+}
+
+body .top-header .top-header-right .search-icon a:hover,
+body .top-header .top-header-right .search-icon a:focus,
+body .top-header .top-header-right .search-icon a:active {
+  background-color: #1a1a1a;
+  border-color: #1a1a1a;
+  color: #fff;
+}
+
+body .icon-block-outer:hover .icon-content-area a,
+body .icon-block-outer:focus .icon-content-area a,
+body .icon-block-outer:active .icon-content-area a {
+  -webkit-transition: color 0.3s, border 0.5s, background-color 0.5s;
+  -moz-transition: color 0.3s, border 0.5s, background-color 0.5s;
+  -ms-transition: color 0.3s, border 0.5s, background-color 0.5s;
+  -o-transition: color 0.3s, border 0.5s, background-color 0.5s;
+  transition: color 0.3s, border 0.5s, background-color 0.5s;
+}
+
+body .icon-block-outer:hover .icon-content-area h3 a:hover,
+body .icon-block-outer:focus .icon-content-area h3 a:focus,
+body .icon-block-outer:active .icon-content-area h3 a:active {
+  color: #d5d5d5;
+}
+
+/*======================================*/
+/* Footer Section */
+/*======================================*/
+
+body .site-footer .footer-inner {
+  text-align: center;
+}
+
+body .site-footer .footer-social {
+  margin-bottom: 0;
+}
+
+body .site-footer .footer-menu {
+  display: inline-block;
+}
+
+body .site-footer .footer-menu ul {
+  margin-left: 15px;
+}
+
+body .site-footer .footer-menu ul li a {
+  border-left: 1px solid #4d4d4d;
+  padding-left: 15px;
+}
+
+@media screen and (min-width: 1200px){
+  body .site-footer .site-info {
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 1199px){
+  body .site-info {
+      text-align: center;
+      margin-bottom: 15px;
+  }
+
+  body .site-footer .footer-menu ul li:first-child a {
+    border-left: none;
+    padding-left: 0;
+  }
+}
