@@ -5,7 +5,7 @@ use Freshwork\Transbank\TransbankServiceFactory;
 use Freshwork\Transbank\RedirectorHelper;
 
 include 'vendor/autoload.php';
-$bag = CertificationBagFactory::integrationWebpayNormal();
+$bag = CertificationBagFactory::production();
 
 $plus = TransbankServiceFactory::normal($bag);
 
